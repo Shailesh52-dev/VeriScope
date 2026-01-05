@@ -1,5 +1,5 @@
-# claim-analyzer 
-### Note on Calibration
+# VeriScope
+### Calibration Note
 An AI-powered system for structured claim analysis using neural inference, domain-aware reasoning, and consensus evaluation.
 
 ## Project Evolution
@@ -11,6 +11,6 @@ An AI-powered system for structured claim analysis using neural inference, domai
   Adds CRCS consensus reasoning, HCDM aggregation, explainability layers, and a production-ready web interface.
 
 ## Live Demo
-Frontend: https://claim-analyzer-frontend.web.app  
+Frontend (VeriScope, legacy URL): https://claim-analyzer-frontend.web.app
 Backend API: https://fact-analyzer-677783096574.asia-south1.run.app
 
